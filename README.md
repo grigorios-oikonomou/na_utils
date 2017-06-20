@@ -1,2 +1,2 @@
 # na_utils
-NA tolls
+Utilities for parsng nucleic acid sequences
